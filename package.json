@@ -1,5 +1,5 @@
 {
-  "name": "pvfork-react-native-image-resizer",
+  "name": "@privageapp/react-native-image-resizer",
   "version": "1.0.2",
   "description": "Rescale local images with React Native, (Support Build tools version change)",
   "repository": {
@@ -22,7 +22,7 @@
     "react": "^15.4.0 || ^16.0.0-alpha",
     "react-native": ">=v0.40.0"
   },
-  "author": "Florian Rival <florianr@bam.tech> (http://bam.tech)",
+  "author": "Privage App <info@privageapp.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/privageapp/react-native-image-resizer/issues"
